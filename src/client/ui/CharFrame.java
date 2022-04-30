@@ -50,6 +50,6 @@ public class CharFrame {
 
     //初始化
     public void init(){
-
+    
     }
 }
